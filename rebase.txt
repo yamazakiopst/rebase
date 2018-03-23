@@ -1,2 +1,4 @@
 rebasePractice
 develop初期コミット
+feature#1で追加実装(50%)
+feature#1 作業完了
