@@ -4,3 +4,4 @@ feature#1‚Å’Ç‰ÁÀ‘•(50%)
 feature#1 ì‹ÆŠ®—¹
 feature#2 ì‹ÆŠ®—¹
 feature#3 ì‹Æ“r’†
+feature#4 ì‹Æ“r’†
